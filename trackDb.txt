@@ -1,5 +1,5 @@
 track WT_CM
-bigDataUrl https://github.com/marcomarconi/polyA/blob/master/WT-CM_polyA.bb
+bigDataUrl raw.githubusercontent.com/marcomarconi/polyA/master/WT-CM_polyA.bb
 shortLabel WT-CM
 longLabel WT-CM
 type bigBed
