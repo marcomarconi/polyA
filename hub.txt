@@ -1,0 +1,6 @@
+hub MagnaportheOryzaePolyAsites
+shortLabel Magnaporthe oryzae poly(A) sites
+longLabel Magnaporthe oryzae poly(A) sites
+genomesFile genomes.txt
+email marco.marconi@gmail.com
+
