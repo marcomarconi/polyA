@@ -21,6 +21,11 @@ bigDataUrl WT-MM-C_polyA.bb
 shortLabel WT-MM-C
 longLabel WT-MM-C
 type bigBed
+track WT_ALL
+bigDataUrl WT-ALL_polyA.bb
+shortLabel WT-ALL
+longLabel WT-ALL
+type bigBed
 visibility dense
 track delta-rbp35_CM
 bigDataUrl 2D4-CM_polyA.bb
@@ -46,7 +51,12 @@ shortLabel delta-rbp35-MM-C
 longLabel delta-rbp35-MM-C
 type bigBed
 visibility dense
-
+track delta-rbp35_ALL
+bigDataUrl 2D4-ALL_polyA.bb
+shortLabel delta-rbp35-ALL
+longLabel delta-rbp35-ALL
+type bigBed
+visibility dense
 
 
 
