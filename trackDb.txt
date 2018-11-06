@@ -10,5 +10,44 @@ shortLabel WT-MM
 longLabel WT-MM
 type bigBed
 visibility dense
+track WT_MM-N
+bigDataUrl WT-MM-N_polyA.bb
+shortLabel WT-MM-N
+longLabel WT-MM-N
+type bigBed
+visibility dense
+track WT_MM-C
+bigDataUrl WT-MM-C_polyA.bb
+shortLabel WT-MM-C
+longLabel WT-MM-C
+type bigBed
+visibility dense
+track delta-rbp35_CM
+bigDataUrl 2D4-CM_polyA.bb
+shortLabel delta-rbp35-CM
+longLabel delta-rbp35-CM
+type bigBed
+visibility dense
+track delta-rbp35_MM
+bigDataUrl 2D4-MM_polyA.bb
+shortLabel delta-rbp35-MM
+longLabel delta-rbp35-MM
+type bigBed
+visibility dense
+track delta-rbp35_MM-N
+bigDataUrl 2D4-MM-N_polyA.bb
+shortLabel delta-rbp35-MM-N
+longLabel delta-rbp35-MM-N
+type bigBed
+visibility dense
+track delta-rbp35_MM-C
+bigDataUrl 2D4-MM-C_polyA.bb
+shortLabel delta-rbp35-MM-C
+longLabel delta-rbp35-MM-C
+type bigBed
+visibility dense
+
+
+
 
 
